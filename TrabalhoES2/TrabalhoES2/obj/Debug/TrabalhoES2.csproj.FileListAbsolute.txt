@@ -1,0 +1,10 @@
+H:\TrabES2\TabelaFut\TrabalhoES2\TrabalhoES2\bin\Debug\TrabalhoES2.exe.config
+H:\TrabES2\TabelaFut\TrabalhoES2\TrabalhoES2\bin\Debug\TrabalhoES2.exe
+H:\TrabES2\TabelaFut\TrabalhoES2\TrabalhoES2\bin\Debug\TrabalhoES2.pdb
+H:\TrabES2\TabelaFut\TrabalhoES2\TrabalhoES2\obj\Debug\TrabalhoES2.csprojAssemblyReference.cache
+H:\TrabES2\TabelaFut\TrabalhoES2\TrabalhoES2\obj\Debug\TrabalhoES2.Form1.resources
+H:\TrabES2\TabelaFut\TrabalhoES2\TrabalhoES2\obj\Debug\TrabalhoES2.Properties.Resources.resources
+H:\TrabES2\TabelaFut\TrabalhoES2\TrabalhoES2\obj\Debug\TrabalhoES2.csproj.GenerateResource.cache
+H:\TrabES2\TabelaFut\TrabalhoES2\TrabalhoES2\obj\Debug\TrabalhoES2.csproj.CoreCompileInputs.cache
+H:\TrabES2\TabelaFut\TrabalhoES2\TrabalhoES2\obj\Debug\TrabalhoES2.exe
+H:\TrabES2\TabelaFut\TrabalhoES2\TrabalhoES2\obj\Debug\TrabalhoES2.pdb
